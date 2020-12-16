@@ -19,8 +19,6 @@ Contributions via issues and pull requests are welcome.
 
 1. [ADVICE FOR SHORT-TERM MACHINE LEARNING RESEARCH PROJECTS](https://rockt.github.io/2018/08/29/msc-advice)
 
-1. Reading list - [https://80000hours.org/articles/ai-safety-syllabus/#reading-list], [https://humancompatible.ai/bibliography]
-
 
 ## Writing Research Papers
 1. [How NOT to review a paper The tools and techniques of the adversarial reviewer](https://sigmodrecord.org/publications/sigmodRecord/0812/p100.open.cormode.pdf) by Graham Cormode, 2008
